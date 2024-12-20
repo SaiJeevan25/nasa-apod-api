@@ -1,1 +1,1 @@
-# NASA APDO API Application using React
+# NASA APOD API Application using React
