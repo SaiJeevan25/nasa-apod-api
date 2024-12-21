@@ -6,7 +6,7 @@ export default function Footer(props) {
         <footer>
             <div className='bgGradient'></div>
                 <div>
-                    <h2>APOD Project</h2>   
+                    <h2>Astronomial Pictue Of The Day</h2>   
                     <h1>{data?.title}</h1>
                 </div>
                 <button onClick={handleToggleBar}>    
